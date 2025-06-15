@@ -1,5 +1,7 @@
-# git --version 
-# => we can know version of git 
+# learn about git and github
 ----
-github work like here.
+### git --version 
+### => we can know version of git 
+----
+### github work like here.
 
