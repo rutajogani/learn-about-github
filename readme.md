@@ -5,6 +5,9 @@
 ----
 
 ### we can use very easily because it has one rule like here.
+
+![image](https://github.com/user-attachments/assets/74cc213d-ed1a-4901-9793-2b2ed9c62908)
+
 ----
 ### github work like here.
 
