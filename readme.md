@@ -1,5 +1,5 @@
 # git --version 
 # => we can know version of git 
 ----
-github wok like here.
+github work like here.
 
