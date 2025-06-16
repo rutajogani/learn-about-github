@@ -34,6 +34,6 @@
 ### git log
 * it show all commit with time, date 
 ---
-
-
-
+### git config -- global init.defaultBranch nameOfBranch
+* change of the branch name 
+---
