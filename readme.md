@@ -37,3 +37,5 @@
 ### git config -- global init.defaultBranch nameOfBranch
 * change of the branch name 
 ---
+
+![image](https://github.com/user-attachments/assets/5be396a7-4fb5-49bc-a822-d9873f23081f)
