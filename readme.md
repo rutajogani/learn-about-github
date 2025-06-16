@@ -1,7 +1,7 @@
 # learn about git and github
 
 ### git --version 
-### => we can know version of git 
+* we can know version of git 
 ----
 
 ### we can use very easily because it has one rule like here.
@@ -16,9 +16,16 @@
 ### this one is only Graph in how to work github
 -----
 ### git init
-### => it help in make repository
+* it help in make repository
 * it is a working directory
 ---- 
 ### git add 
+* add in staging area
+----
+###  git commit -m "message"
+* when you do commit than your work's go in repo
+---
+### git push 
+* when you do push than your code go in github 
 
 
