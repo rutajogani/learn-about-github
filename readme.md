@@ -27,5 +27,13 @@
 ---
 ### git push 
 * when you do push than your code go in github 
+---
+### git status
+* it can show Current situation
+---
+### git log
+* it show all commit with time, date 
+---
+
 
 
