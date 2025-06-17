@@ -40,10 +40,10 @@
  ## when you want to push of your code in github so do this step
 
 ### 1. first do work
-![image](https://github.com/user-attachments/assets/5be396a7-4fb5-49bc-a822-d9873f23081f)
+![image](https://github.com/user-attachments/assets/3cd2af33-a6a2-4635-9ac2-51d4a9dbbc44)
 ---
 ### 2. click here
-
+![image](https://github.com/user-attachments/assets/1ade985f-46ac-4d07-bc17-6f309bd0dfe9)
 ---
 ### 3. write message
 
