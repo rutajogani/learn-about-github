@@ -37,5 +37,18 @@
 ### git config -- global init.defaultBranch nameOfBranch
 * change of the branch name 
 ---
+ ## when you want to push of your code in github so do this step
 
+### 1. first do work
 ![image](https://github.com/user-attachments/assets/5be396a7-4fb5-49bc-a822-d9873f23081f)
+---
+### 2. click here
+
+---
+### 3. write message
+
+---
+### 4. do commit
+
+---
+### 5. and click
