@@ -51,4 +51,7 @@
 ### 4. do commit
 
 ---
-### 5. and click
+### 5. and click in sync changes
+
+* this call push
+---
