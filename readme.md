@@ -54,4 +54,6 @@
 ### 5. and click in sync changes
 
 * this call push
----
+### than your code was push in github
+#### you can do this type with mouse but you can do with Keyboard 
+- you can use above's command
