@@ -52,7 +52,7 @@
 ![image](https://github.com/user-attachments/assets/d679e77d-97f5-4581-820e-28d2f52fd99a)
 ---
 ### 5. and click in sync changes
-
+![image](https://github.com/user-attachments/assets/8dca6a9d-f0ef-4762-9204-9192e59c82c9)
 * this call push
 ### than your code was push in github
 #### you can do this type with mouse but you can do with Keyboard 
