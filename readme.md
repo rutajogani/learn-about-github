@@ -61,7 +61,7 @@
 
 ### 4. do commit
 
-## ![image](https://github.com/user-attachments/assets/d679e77d-97f5-4581-820e-28d2f52fd99a)
+![image](https://github.com/user-attachments/assets/1b821543-d6f6-4d98-929f-06267c73d3ae)
 
 ### 5. and click in sync changes
 
