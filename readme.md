@@ -74,7 +74,7 @@
 #### you can do this type with mouse or you can do with Keyboard
 
 - if want to do commit with keyboard so you can use command in terminal.
-  -this command is above.
+- this command is above.
 
 ---
 
