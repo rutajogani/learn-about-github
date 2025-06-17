@@ -46,10 +46,10 @@
 ![image](https://github.com/user-attachments/assets/1ade985f-46ac-4d07-bc17-6f309bd0dfe9)
 ---
 ### 3. write message
-
+![image](https://github.com/user-attachments/assets/67df7414-6365-4aa5-9407-a3a5ff024ad4)
 ---
 ### 4. do commit
-
+![image](https://github.com/user-attachments/assets/d679e77d-97f5-4581-820e-28d2f52fd99a)
 ---
 ### 5. and click in sync changes
 
