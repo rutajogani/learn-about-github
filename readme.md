@@ -95,3 +95,21 @@
 - change of the branch name
 
 ---
+
+### git cat-file -p < commit-id >
+
+- what is write in file it define
+
+---
+
+### git breach < give name >
+
+- make new breach
+
+---
+
+### git show -s --pretty = raw < commit-hash >
+
+- what is commit work in under it can show
+
+---
