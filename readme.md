@@ -113,3 +113,23 @@
 - what is commit work in under it can show
 
 ---
+
+### git log -oneline
+
+- it can display commit in short way
+
+---
+
+### git checkout < branch-name >
+
+- you can do checkout in you now file
+
+---
+
+### git branch -d < branch-name >
+
+- you can delete you new branch so you can use this commend
+
+---
+
+### 
